@@ -33,7 +33,7 @@ Several .mod files are generated and an executable:
 
 `./sfec`: This runs the whole code.
 
-When `./sfec` is run, it generates two output files, containing the gravity and dynamic topogrpahy signatures of the convecting shell:
+When `./sfec` is run, it generates two output files, containing the gravity and dynamic topography signatures of the convecting shell:
 
 - `geoid.dat`
 - `geoid_coeff.dat`
@@ -61,7 +61,7 @@ The contents of this repository are licensed under a **GNU General Public Licens
 
 Copyright notice:
 
-Technische Universiteit Delft hereby disclaims all copyright interest in the program “SFEC”. SFEC is a Fortran/MATLAB package to do perform the Stokes solve of a convective density shell. written by the Author(s). 
+Technische Universiteit Delft hereby disclaims all copyright interest in the program “SFEC”. SFEC is a Fortran/MATLAB package to do perform the Stokes solve of a convective density shell, written by the Author(s). 
 Henri Werij, Faculty of Aerospace Engineering, Technische Universiteit Delft. 
 
 © 2021, B.C. Root
