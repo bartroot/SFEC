@@ -2,7 +2,7 @@ function [] = construct_geometry_mod(Model)
 % 
 % function to build sfec.inp file for the SFEC models
 
-fid_geo = fopen([Model.sfec_dir geometry.f90'],'wt');         %% modify here to your own path
+fid_geo = fopen([Model.sfec_dir 'geometry.f90'],'wt');         %% modify here to your own path
 
 fprintf(fid_geo,'module geometry\n');
 fprintf(fid_geo,'! -----------------------------------------------\n');
