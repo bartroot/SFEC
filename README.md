@@ -52,7 +52,7 @@ This Software has been developed on ideas and software from the following develo
 - **Nicola Tosi**, (Developer)
 - **Zdenek Martinec**, (Developer)
 - **Bart Root** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) [0000-0001-7742-1434](https://orcid.org/0000-0001-7742-1434), Technische Universiteit Delft (Contributor)
-- Youandi van der Tang, Technische Universiteit Delft (Contributor)
+- **Youandi van der Tang**, Technische Universiteit Delft (Contributor)
 - **Maxime Vincent**, University of Paris (Contributor)  
 
 ## License
