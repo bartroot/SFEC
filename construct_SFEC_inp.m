@@ -2,7 +2,7 @@ function [] = construct_SFEC_inp(Model)
 % 
 % function to build sfec.inp file for the SFEC models
 
-fid_read = fopen('SFEC_2/sfec.inp','wt');         %% modify here to your own path
+fid_read = fopen([Model.sfec_dir sfec.inp'],'wt');         %% modify here to your own path
 
 fprintf(fid_read,'# Spectral intervals and radial grid\n');
 fprintf(fid_read,'Min_degree              %-5d\t no      ! Min. harmonic degree for the response\n', Model.sfec.min_degree);
