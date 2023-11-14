@@ -1,0 +1,21 @@
+# Spectral intervals and radial grid
+Min_degree              2    	 no      ! Min. harmonic degree for the response
+Max_degree              10   	 no      ! Max. harmonic degree for the response
+N_node_layer            2    	 no      ! Number of FE-points within each tomographic layer
+Theta_points            360  	 no      ! Number of Gauss-Legendre points
+
+# Tomographic model
+Tomography_file         999  	 outputmax.tom  ! File containing density derived from tomography
+
+# Self gravitation
+Self_gravitation        1    	 no      ! Selfgravitation (1=yes, 0=no)
+
+# Viscosity structure
+Visc_UM                 6d20	 no      ! Upper mantle viscosity
+Visc_LM                 1d21	 no      ! Lower mantle viscosity
+Visc_Lith               1d23	 no      ! Lithosphere viscosity
+
+# CG solver
+CG_tol_test             1    	 no      ! Tolerance test for CG solver
+CG_tol                  1d-8	 no      ! Tolerance of CG solver
+CG_maxit                100  	 no      ! Maximum number of CG iterations
