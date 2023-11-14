@@ -51,7 +51,7 @@ circle=zeros(length(lat),length(lon));                		 %% creation of the matr
 
 %% ########### DENSITY FIELD INITIALIZATION
 
-fid_read = fopen('SFEC_2/outputmax.tom','wt');         		 %% modify here to your own path
+fid_read = fopen('SFEC/outputmax.tom','wt');         		 %% modify here to your own path
 fprintf(fid_read,'%5d\t%5d\n',[tot_number_layer lmax]);
               
 %% ########## CREATION OF THE DENSITY FIELD LAYER BY LAYER   
