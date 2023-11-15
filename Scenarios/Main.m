@@ -15,8 +15,8 @@ clc;
 HOMEDIR = pwd;
 
 % load dependencies
-SFEC_dir = '/Users/bartroot/TUDelft/Code/SFEC/';       % add your directory of the github repositories 
-GSH_dir = '/Users/bartroot/TUDelft/Code/GSH/Tools/';   %        add your directory of the github repositories 
+SFEC_dir = '<directory where you placed the SFEC code>';       % add your directory of the github repositories 
+GSH_dir = '<directory where you placed the GSH code>/Tools/';   %        add your directory of the github repositories 
 
 addpath(GSH_dir)
 addpath('Data/')
