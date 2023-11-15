@@ -51,7 +51,7 @@ For now this package can be run stand alone or linked with the GSH code for full
 This Software has been developed on ideas and software from the following developers/contributors:
 
 - **Nicola Tosi** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0002-4912-2848](https://orcid.org/0000-0002-4912-2848), DLR Berlin (Developer)
-- **Zdenek Martinec** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0002-7036-2571] (https://orcid.org/0000-0002-7036-2571), Dublin Institute for Advanced Science (Developer)
+- **Zdenek Martinec** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0002-7036-2571](https://orcid.org/0000-0002-7036-2571), Dublin Institute for Advanced Science (Developer)
 - **Bart Root** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0001-7742-1434](https://orcid.org/0000-0001-7742-1434), Technische Universiteit Delft (Contributor)
 - **Youandi van der Tang**, Technische Universiteit Delft (Contributor)
 - **Maxime Vincent**, University of Paris (Contributor)  
