@@ -38,8 +38,9 @@ When `./sfec` is run, it generates two output files, containing the gravity and 
 - `geoid.dat`
 - `geoid_coeff.dat`
 
-### Extra Tools
-TBD
+### Modelling scenarios
+
+Mars: Mantle plume dynamics linked to flexure theory derived lithosphere model 
 
 ### Keep in Mind
 
@@ -49,9 +50,9 @@ For now this package can be run stand alone or linked with the GSH code for full
 
 This Software has been developed on ideas and software from the following developers/contributors:
 
-- **Nicola Tosi**, (Developer)
-- **Zdenek Martinec**, (Developer)
-- **Bart Root** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) [0000-0001-7742-1434](https://orcid.org/0000-0001-7742-1434), Technische Universiteit Delft (Contributor)
+- **Nicola Tosi** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0002-4912-2848](https://orcid.org/0000-0002-4912-2848), DLR Berlin (Developer)
+- **Zdenek Martinec**, ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0002-7036-2571] (https://orcid.org/0000-0002-7036-2571), Dublin Institute for Advanced Science (Developer)
+- **Bart Root** ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0000-0001-7742-1434](https://orcid.org/0000-0001-7742-1434), Technische Universiteit Delft (Contributor)
 - **Youandi van der Tang**, Technische Universiteit Delft (Contributor)
 - **Maxime Vincent**, University of Paris (Contributor)  
 
@@ -70,7 +71,11 @@ Henri Werij, Faculty of Aerospace Engineering, Technische Universiteit Delft.
 
 If you would like to reuse the code, please cite the following:
 
-TBD
+Tosi, N. (2007), Numerical modeling of present-day mantle convection, PhD thesis, Charles University, Prague, (https://geo.mff.cuni.cz/theses/2008-Tosi-PhD.pdf)
+
+or
+
+Tosi N., Z. Martinec (2007). Semi-analytical solution for viscous Stokes flow in two eccentrically nested spheres. Geophysical Journal International, 170, 1015-1030, doi:10.111/j.1365-246X.2007.03482.x
 
 ## Would you like to contribute?
 
