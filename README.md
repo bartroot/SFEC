@@ -75,7 +75,7 @@ Tosi, N. (2007), Numerical modeling of present-day mantle convection, PhD thesis
 
 or
 
-Tosi N., Z. Martinec (2007). Semi-analytical solution for viscous Stokes flow in two eccentrically nested spheres. Geophysical Journal International, 170, 1015-1030, doi:10.111/j.1365-246X.2007.03482.x
+Tosi, N. and Z. Martinec (2007), Semi-analytical solution for viscous Stokes flow in two eccentrically nested spheres, Geophysical Journal International, 170, 1015-1030, doi:10.111/j.1365-246X.2007.03482.x
 
 ## Would you like to contribute?
 
