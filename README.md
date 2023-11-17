@@ -38,6 +38,8 @@ When `./sfec` is run, it generates two output files, containing the gravity and 
 - `geoid.dat`
 - `geoid_coeff.dat`
 
+To get an input model use the `create_tom_files.m` code to create an input file for the SFEC code and you are ready to go.
+
 ### Modelling scenarios
 
 Mars: Mantle plume dynamics linked to flexure theory derived lithosphere model 
